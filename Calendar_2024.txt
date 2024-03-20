@@ -1,0 +1,26 @@
+Calendar 2024
+This project is a calendar application that displays the current month along with corresponding month images. Users can navigate through different months using arrow icons.
+
+Overview
+This project was created based on a tutorial available on YouTube: YouTube Tutorial. I integrated images for each month into the project, which were generated using AI Bing Creator.
+
+Features
+Displays the current month and year.
+Renders the calendar for the current month with active and inactive days.
+Shows a month image corresponding to the current month.
+Allows users to navigate between different months.
+Usage
+Simply open the index.html file in a web browser to view the calendar. Use the arrow icons to navigate between months.
+
+Implementation Details
+The calendar is dynamically rendered based on the current date using JavaScript.
+Month images are fetched from the monthImages object, which contains paths to images for each month.
+CSS styles are applied to enhance the visual appearance of the calendar.
+Credits
+Calendar application created by Magdaléna Škobrtalová.
+Tutorial reference: https://www.youtube.com/watch?v=Z1BGAivZRlE
+Month images generated using AI Bing Creator.
+License
+This project is licensed under the MIT License.
+
+Feel free to customize the README as needed and replace [Your Name] with your actual name or username.
